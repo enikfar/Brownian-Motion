@@ -1,7 +1,7 @@
 
 
 
-<h1 > 
+<h1 align="center"> 
  Brownian Motion </h1>
 <p align="center">
  
