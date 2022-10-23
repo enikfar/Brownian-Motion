@@ -1,4 +1,4 @@
-<h1 alight="center"> 
+<h1 alight="right"> 
  Brownian Motion
  </p>
 
